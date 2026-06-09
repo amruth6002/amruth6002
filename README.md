@@ -16,8 +16,4 @@
 
 I'm a B.Tech student at **IIT Roorkee** (2023–2027)
 -  Open source contributor **[Merged PRs](https://github.com/search?q=author%3Aamruth6002+org%3Asktime+++++&type=pullrequests&state=closed)** 
--  **Winner, General Championship (Technical), IIT Roorkee**
--  Deeply interested in **Agentic AI** , **ML Infernce**
--  I love hackathons — Top 50 @ Microsoft AI Unlocked, National Finalist @ Paytm Build for India , Top 3 @ HI Labs AI Hackathon
-
 ---
