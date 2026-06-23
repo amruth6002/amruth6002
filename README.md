@@ -1,1 +1,2 @@
--  Open source contributor **[Merged PRs](https://github.com/search?q=author%3Aamruth6002+org%3Asktime+++++&type=pullrequests&state=closed)** 
+-  sktime/sktime-mcp : https://github.com/sktime/sktime-mcp/pulls?q=is%3Aopen+is%3Aclosed+is%3Apr+author%3Aamruth6002+
+-  sktime/pytorch-forecasting : 
